@@ -86,7 +86,7 @@ export default function Hero() {
             </button>
             
             <a
-              href="/resume final 2.pdf"
+              href="/resume_final.pdf"
               download="Balkirat_Singh_Resume.pdf"
               className="px-8 py-4 bg-gradient-to-r from-green-500 to-teal-500 text-white font-semibold rounded-full hover:from-green-600 hover:to-teal-600 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl flex items-center gap-2"
             >

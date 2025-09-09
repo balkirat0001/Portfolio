@@ -25,7 +25,6 @@ export default function Skills() {
       skills: [
         { name: "Git/GitHub" },
         { name: "VS Code" },
-        { name: "Firebase" },
         { name: "Vercel" },
         { name: "AWS ( EC-2)" },
         { name: "Jira" }
