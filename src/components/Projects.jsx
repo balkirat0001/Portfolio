@@ -5,14 +5,14 @@ export default function Projects() {
     {
       title: "MediConnect",
       description: "A comprehensive healthcare platform connecting patients with healthcare providers, featuring appointment scheduling, virtual consultations, and patient management system.",
-      technologies: ["React", "Node.js", "MongoDB", "Express", "Socket.io"],
+      technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB", "Express"],
       github: "https://github.com/balkirat0001/MediConnect",
       image: "/p3.png"
     },
     {
       title: "EventCraft-Host",
       description: "An event management platform that allows users to create, manage, and host events with features like ticket booking, attendee management, and real-time updates.",
-      technologies: ["Next.js", "TypeScript", "MongoDB", "Node.js", "Tailwind CSS"],
+      technologies: ["Next.js", "TypeScript", "MongoDB", "Node.js", "Tailwind CSS", "Socket.io"],
       github: "https://github.com/balkirat0001/Eventcraft-Host",
       demo: "https://eventccraft.vercel.app/",
       image: "/p1.png"
@@ -20,15 +20,15 @@ export default function Projects() {
     {
       title: "Innovative Alcohol Detection System for Vehicles",
       description: "Engineered an IoT-based safety system preventing drunk driving through automated breath analysis. Programmed an Arduino microcontroller with an MQ-3 alcohol sensor for real-time detection. Integrated GPS/GSM modules for emergency location tracking and alert notifications.",
-      technologies: ["Arduino", "IoT", "MQ-3 Sensor", "GPS", "GSM", "C++"],
+      technologies: ["Arduino", "IoT", "MQ-3 Sensor", "GPS", "GSM"],
       image: "/p2.png"
     },
     {
       title: "Portfolio Website",
       description: "A modern, responsive portfolio website built with Next.js and Tailwind CSS featuring smooth animations and dark theme to showcase my work and skills.",
-      technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-      github: "https://github.com/balkirat/portfolio",
-      demo: "https://portfolio-demo.vercel.app",
+      technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
+      github: "https://github.com/balkirat0001/Portfolio",
+      demo: "https://balkirat.vercel.app/",
       image: "/img4.png"
     }
   ]
